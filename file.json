@@ -1,0 +1,255 @@
+{
+  "State.3e4065ea-0ebe-4920-9859-c31231a0085e": {
+    "id": "3e4065ea-0ebe-4920-9859-c31231a0085e",
+    "created_at": "2023-10-04T12:23:11.864022",
+    "updated_at": "2023-10-04T12:23:11.864154",
+    "name": "Lagos",
+    "__class__": "State"
+  },
+  "State.b9e2f3db-d9fa-4989-bb5a-15f656a3f7d5": {
+    "id": "b9e2f3db-d9fa-4989-bb5a-15f656a3f7d5",
+    "created_at": "2023-10-04T12:27:32.597537",
+    "updated_at": "2023-10-04T12:27:32.597692",
+    "name": "Lagos",
+    "__class__": "State"
+  },
+  "State.fb4ee31c-a4d0-4ed0-9474-41f1834accb6": {
+    "id": "fb4ee31c-a4d0-4ed0-9474-41f1834accb6",
+    "created_at": "2023-10-04T12:28:27.279663",
+    "updated_at": "2023-10-04T12:28:27.279792",
+    "name": "Lagos",
+    "__class__": "State"
+  },
+  "State.88ecf562-ec56-4733-9a89-cf64db8cd3ac": {
+    "id": "88ecf562-ec56-4733-9a89-cf64db8cd3ac",
+    "created_at": "2023-10-04T12:29:45.081371",
+    "updated_at": "2023-10-04T12:29:45.081475",
+    "name": "Lagos",
+    "__class__": "State"
+  },
+  "State.cf914d3d-262c-4fdc-8f03-69a0f2ebb0b6": {
+    "id": "cf914d3d-262c-4fdc-8f03-69a0f2ebb0b6",
+    "created_at": "2023-10-04T14:28:40.899266",
+    "updated_at": "2023-10-04T14:28:40.899436",
+    "__class__": "State"
+  },
+  "City.d21e7547-0476-49e1-9b3a-bf6e90b6412e": {
+    "id": "d21e7547-0476-49e1-9b3a-bf6e90b6412e",
+    "created_at": "2023-10-04T14:29:13.104402",
+    "updated_at": "2023-10-04T14:29:13.104638",
+    "state_id": "cf914d3d-262c-4fdc-8f03-69a0f2ebb0b6",
+    "name": "Ibadan",
+    "__class__": "City"
+  },
+  "City.6add8a0d-ba16-4de2-b3eb-5be560ffb00e": {
+    "id": "6add8a0d-ba16-4de2-b3eb-5be560ffb00e",
+    "created_at": "2023-10-04T14:32:41.381683",
+    "updated_at": "2023-10-04T14:32:41.381851",
+    "state_id": "cf914d3d-262c-4fdc-8f03-69a0f2ebb0b6",
+    "__class__": "City"
+  },
+  "State.76e6cc3c-f57f-4954-8a44-835a0ee8d59c": {
+    "id": "76e6cc3c-f57f-4954-8a44-835a0ee8d59c",
+    "created_at": "2023-10-04T14:33:46.150240",
+    "updated_at": "2023-10-04T14:33:46.150329",
+    "name": "California",
+    "__class__": "State"
+  },
+  "City.cd713baa-b0c0-442c-b589-10b768213eda": {
+    "id": "cd713baa-b0c0-442c-b589-10b768213eda",
+    "created_at": "2023-10-04T14:33:46.151373",
+    "updated_at": "2023-10-04T14:33:46.151533",
+    "state_id": "76e6cc3c-f57f-4954-8a44-835a0ee8d59c",
+    "__class__": "City"
+  },
+  "State.1592d6b2-29e8-4e0f-92a6-7ce82e1da221": {
+    "id": "1592d6b2-29e8-4e0f-92a6-7ce82e1da221",
+    "created_at": "2023-10-04T14:33:46.153606",
+    "updated_at": "2023-10-04T14:33:46.153651",
+    "__class__": "State"
+  },
+  "State.00f640dc-a87e-4fbe-af16-489e6b0e343e": {
+    "id": "00f640dc-a87e-4fbe-af16-489e6b0e343e",
+    "created_at": "2023-10-04T14:33:46.154633",
+    "updated_at": "2023-10-04T14:33:46.154685",
+    "name": "California",
+    "__class__": "State"
+  },
+  "State.8aa9f859-a55d-4809-ba8c-0a0673279463": {
+    "id": "8aa9f859-a55d-4809-ba8c-0a0673279463",
+    "created_at": "2023-10-04T14:35:44.000852",
+    "updated_at": "2023-10-04T14:35:44.000937",
+    "name": "California",
+    "__class__": "State"
+  },
+  "City.4336e556-a309-4888-b76f-cdc482c372bc": {
+    "id": "4336e556-a309-4888-b76f-cdc482c372bc",
+    "created_at": "2023-10-04T14:35:44.001990",
+    "updated_at": "2023-10-04T14:35:44.002072",
+    "state_id": "8aa9f859-a55d-4809-ba8c-0a0673279463",
+    "name": "San Francisco",
+    "__class__": "City"
+  },
+  "State.464c76c3-9a21-414b-a60a-c6c2939f3170": {
+    "id": "464c76c3-9a21-414b-a60a-c6c2939f3170",
+    "created_at": "2023-10-04T14:35:44.006946",
+    "updated_at": "2023-10-04T14:35:44.006984",
+    "__class__": "State"
+  },
+  "State.ab2d13e6-39cd-4b1c-a1c8-4480c73a2965": {
+    "id": "ab2d13e6-39cd-4b1c-a1c8-4480c73a2965",
+    "created_at": "2023-10-04T14:35:44.008076",
+    "updated_at": "2023-10-04T14:35:44.008143",
+    "name": "California",
+    "__class__": "State"
+  },
+  "State.7bd2d489-c350-41d5-b509-4fc7a6db18b1": {
+    "id": "7bd2d489-c350-41d5-b509-4fc7a6db18b1",
+    "created_at": "2023-10-04T15:35:35.180920",
+    "updated_at": "2023-10-04T15:35:35.181044",
+    "__class__": "State"
+  },
+  "State.7532e04d-1aac-4584-92ef-20c4ea850ccc": {
+    "id": "7532e04d-1aac-4584-92ef-20c4ea850ccc",
+    "created_at": "2023-10-04T15:35:44.509692",
+    "updated_at": "2023-10-04T15:35:44.509798",
+    "__class__": "State"
+  },
+  "State.028a7649-8ea3-450f-855b-ffec523505d6": {
+    "id": "028a7649-8ea3-450f-855b-ffec523505d6",
+    "created_at": "2023-10-04T15:37:28.233006",
+    "updated_at": "2023-10-04T15:37:28.233215",
+    "__class__": "State"
+  },
+  "State.e690e28d-310b-4f33-9b45-180fa7bf809b": {
+    "id": "e690e28d-310b-4f33-9b45-180fa7bf809b",
+    "created_at": "2023-10-04T15:37:54.940156",
+    "updated_at": "2023-10-04T15:37:54.940318",
+    "__class__": "State"
+  },
+  "State.d86e004b-44aa-4fa7-a938-fcdd2381199b": {
+    "id": "d86e004b-44aa-4fa7-a938-fcdd2381199b",
+    "created_at": "2023-10-04T15:41:45.752638",
+    "updated_at": "2023-10-04T15:41:45.752869",
+    "__class__": "State"
+  },
+  "State.dc35d00f-d807-497b-9f8f-fc69ecad999f": {
+    "id": "dc35d00f-d807-497b-9f8f-fc69ecad999f",
+    "created_at": "2023-10-04T15:44:56.037137",
+    "updated_at": "2023-10-04T15:44:56.037273",
+    "name": "San Antonio",
+    "__class__": "State"
+  },
+  "State.c83041e8-62c9-4064-bbf7-bcac6e0478e9": {
+    "id": "c83041e8-62c9-4064-bbf7-bcac6e0478e9",
+    "created_at": "2023-10-04T15:45:36.374347",
+    "updated_at": "2023-10-04T15:45:36.374396",
+    "name": "California",
+    "__class__": "State"
+  },
+  "City.5a26f370-c1cd-4964-a17c-46490430c1a0": {
+    "id": "5a26f370-c1cd-4964-a17c-46490430c1a0",
+    "created_at": "2023-10-04T15:45:36.375780",
+    "updated_at": "2023-10-04T15:45:36.375828",
+    "state_id": "c83041e8-62c9-4064-bbf7-bcac6e0478e9",
+    "name": "San Francisco",
+    "__class__": "City"
+  },
+  "State.08dafaff-1b59-41cb-b41e-93c03da20cc2": {
+    "id": "08dafaff-1b59-41cb-b41e-93c03da20cc2",
+    "created_at": "2023-10-04T15:45:36.378390",
+    "updated_at": "2023-10-04T15:45:36.378437",
+    "__class__": "State"
+  },
+  "State.762f2536-398c-4080-807e-833b4162ad15": {
+    "id": "762f2536-398c-4080-807e-833b4162ad15",
+    "created_at": "2023-10-04T15:45:36.380111",
+    "updated_at": "2023-10-04T15:45:36.380175",
+    "name": "California",
+    "__class__": "State"
+  },
+  "State.82fecfbf-7286-4e3e-b9c6-77f0f3a9cc80": {
+    "id": "82fecfbf-7286-4e3e-b9c6-77f0f3a9cc80",
+    "created_at": "2023-10-04T15:47:20.191605",
+    "updated_at": "2023-10-04T15:47:20.191650",
+    "name": "California",
+    "__class__": "State"
+  },
+  "City.1081a043-934e-4cad-a0e7-0184775e02cb": {
+    "id": "1081a043-934e-4cad-a0e7-0184775e02cb",
+    "created_at": "2023-10-04T15:47:20.193742",
+    "updated_at": "2023-10-04T15:47:20.193814",
+    "state_id": "82fecfbf-7286-4e3e-b9c6-77f0f3a9cc80",
+    "name": "San Francisco",
+    "__class__": "City"
+  },
+  "State.f9ab1c1f-0f2c-424b-851b-fe6d3ecd05f8": {
+    "id": "f9ab1c1f-0f2c-424b-851b-fe6d3ecd05f8",
+    "created_at": "2023-10-04T15:47:20.196388",
+    "updated_at": "2023-10-04T15:47:20.196439",
+    "__class__": "State"
+  },
+  "State.0f4948d1-7703-4340-a88d-17bb8cd3692c": {
+    "id": "0f4948d1-7703-4340-a88d-17bb8cd3692c",
+    "created_at": "2023-10-04T15:47:20.197676",
+    "updated_at": "2023-10-04T15:47:20.197712",
+    "name": "California",
+    "__class__": "State"
+  },
+  "State.3d6f7997-a920-4fd7-92fe-aad30f4fc65c": {
+    "id": "3d6f7997-a920-4fd7-92fe-aad30f4fc65c",
+    "created_at": "2023-10-04T15:47:38.690312",
+    "updated_at": "2023-10-04T15:47:38.690376",
+    "name": "California",
+    "__class__": "State"
+  },
+  "City.809196ea-9905-4dd4-b22c-45f33068b079": {
+    "id": "809196ea-9905-4dd4-b22c-45f33068b079",
+    "created_at": "2023-10-04T15:47:38.691398",
+    "updated_at": "2023-10-04T15:47:38.691439",
+    "state_id": "3d6f7997-a920-4fd7-92fe-aad30f4fc65c",
+    "name": "San Francisco",
+    "__class__": "City"
+  },
+  "State.d5cf4082-2bc2-4f00-bbf6-42efbda8ec4c": {
+    "id": "d5cf4082-2bc2-4f00-bbf6-42efbda8ec4c",
+    "created_at": "2023-10-04T15:47:38.694449",
+    "updated_at": "2023-10-04T15:47:38.694496",
+    "__class__": "State"
+  },
+  "State.162d9ae4-cc1a-4917-8af1-bf87cb3f84ce": {
+    "id": "162d9ae4-cc1a-4917-8af1-bf87cb3f84ce",
+    "created_at": "2023-10-04T15:47:38.696632",
+    "updated_at": "2023-10-04T15:47:38.696695",
+    "name": "California",
+    "__class__": "State"
+  },
+  "State.f0d2f1db-a08f-4864-9120-7e75bb5db914": {
+    "id": "f0d2f1db-a08f-4864-9120-7e75bb5db914",
+    "created_at": "2023-10-04T15:48:51.263033",
+    "updated_at": "2023-10-04T15:48:51.263085",
+    "name": "California",
+    "__class__": "State"
+  },
+  "City.20627354-ea7d-4de1-b623-a04381a586d5": {
+    "id": "20627354-ea7d-4de1-b623-a04381a586d5",
+    "created_at": "2023-10-04T15:48:51.264169",
+    "updated_at": "2023-10-04T15:48:51.264253",
+    "state_id": "f0d2f1db-a08f-4864-9120-7e75bb5db914",
+    "name": "San Francisco",
+    "__class__": "City"
+  },
+  "State.80d0afb5-fbf0-45d3-9f9c-214f8bf846cd": {
+    "id": "80d0afb5-fbf0-45d3-9f9c-214f8bf846cd",
+    "created_at": "2023-10-04T15:48:51.265868",
+    "updated_at": "2023-10-04T15:48:51.265913",
+    "__class__": "State"
+  },
+  "State.155fae8b-d8df-4040-87c1-9750511a4c05": {
+    "id": "155fae8b-d8df-4040-87c1-9750511a4c05",
+    "created_at": "2023-10-04T15:48:51.267029",
+    "updated_at": "2023-10-04T15:48:51.267086",
+    "name": "California",
+    "__class__": "State"
+  }
+}
